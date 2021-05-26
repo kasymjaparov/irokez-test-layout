@@ -1,4 +1,14 @@
-# Тестовое задание от "IROKEZ"
-Касымжапаров Адилет 
-Резюме [https://docs.google.com/document/d/1g1T9dCvi6YO_cWqHBZbqLCqet4h6HKCQ1e-3IJJvhrI/]
-Использованные библиотеки : Material-ui, иконки от Font Awesome
+# Landing site
+
+
+STACK:
+
+- REACT
+
+
+Install the dependencies to start the project.
+ ```sh
+cd eventmaker-react
+npm i
+npm start
+```
